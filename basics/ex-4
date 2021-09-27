@@ -1,0 +1,4 @@
+The code:
+console.log('5' + 10)
+
+logs '510' instead of 15, because the '5' is of the type String, and when one operand is a String and the other is a Number, JavaScript implicitly coerces the Number value to the type String, and then concatenates them as it would two Strings.
