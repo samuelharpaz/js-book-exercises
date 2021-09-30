@@ -1,0 +1,1 @@
+The program will output lines 2-4 without a problem. Then on line 6, there will be an error, because the code is trying to reassign a value to a const variable, which is not allowed.

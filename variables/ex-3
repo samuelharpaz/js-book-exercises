@@ -1,0 +1,1 @@
+The program will create a Reference Error, because the foo variable was created with let inside of a block, and therefore is not in scope outside that block.

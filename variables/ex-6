@@ -1,0 +1,1 @@
+No, it will not produce an error. The inner FOO variable inside the block merely shadows the outer FOO, but it creates an entirely new constant.
