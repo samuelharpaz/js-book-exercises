@@ -1,0 +1,1 @@
+The code logs nothing to the console, because the scream function returns prior to calling console.log.

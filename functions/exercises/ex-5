@@ -1,0 +1,1 @@
+It logs nothing to the console. The function returns a value, but nothing is ever logged out to the console. The returned value is not even saved anywhere.
