@@ -1,0 +1,1 @@
+The code outputs "Not Empty". This is because arr is truthy, as only a short set of values within JavaScript are falsy, and all arrays and objects are truthy even when empty.

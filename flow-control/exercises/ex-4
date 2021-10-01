@@ -1,0 +1,6 @@
+The function will log:
+'Product2'
+'Product3'
+'Product not found!'
+
+This is because no 'break' keyword was used in between the various cases, and therefore control "falls through" and executes the rest of the code.
