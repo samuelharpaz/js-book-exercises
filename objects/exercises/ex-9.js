@@ -1,0 +1,1 @@
+// foo.a will log 'hi', qux will log 'hello'. This is because when foo is passed into function bar as an argument, it is passed by reference, and therefore is mutated by the function. qux, on the other hand, is a primitive, and therefore only the paramter "argument2" gets reassigned, but qux itself remains unchanged.
